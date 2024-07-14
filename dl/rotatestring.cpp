@@ -9,7 +9,7 @@ void rotate(char a[],int n){
         a[i+n]=a[i];
         i--;
     }
-    i=0;
+    i=0;   
     int j=len;
     while(i<n){
         a[i]=a[j];
