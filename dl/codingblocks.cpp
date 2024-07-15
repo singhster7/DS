@@ -3,7 +3,7 @@
 #include<climits>
 using namespace std;
 void spiral(int a[100][100],int n,int m){
-
+//sr=1
     int sr=0,sc=0,er=n-1,ec=m-1;
     while(sr<=er and sc<=ec){
         for(int col=sc;col<=ec;col++){
