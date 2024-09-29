@@ -1,0 +1,115 @@
+DAY1  -REPORTED IN THE OFFICE,COLLECTED LAPOTOP,COULDNT GET ACCESS CARD AS I DINT HAVE PASSPORT SIZE PHOTO,MET TUSHAR 
+AND SUYASH . VIRTUALLY CONNECTED WITH AKHILESH,ASSIGNED ME TASKS TO READ ABOUT DATAFRAMES AND SELENIUM.DID LUNCH WITH 
+SENIOR TEAM MEMBERS,THEN SPENT SOME TIME READING ABOUT DATAFRAMES.CONNCETED TO DARPAN,AKSHAY,AKHILESH ON AN INTRODUCTORY
+CALL. DARPAN TOLD ME TO JUST FOCUS ON LEARNING AND BE open to learn new things. came back home and ended the day on a good note.
+
+DAY2-TRIED ON INSTALLING PYHTON,CONNCETED WITH AKSHAY BUT COULDNT BE RESLVED,PREPARED A PPT AS INSTRUCTED BY DARPAN
+GOT TO LEARN ABOUT THE MISTAKES I MADE IN THE PPT.
+
+DAY3-WENT TO THE OFFICE,CONNECTED WITH AKSHAY,RAJAT THEY TOLD ME TO CONTACT IT TEAM IN NESCO TO SOLVE MY PYTHON INSTALLATION.
+WENT TO THE IT TEAM,THEY RAN PYTHON DIRECTLY GOING TO THE FOLDER,BUT THRU CMD,PYHTON WAS STILL NOT INSTALLED.THE ENV VARIABLE WAS
+STILL NOT GETTING SET. THEN SOMEONE FROM THE CENTRAL IT CONNCECTED REMOTELY AND ADDED python path to the firewall exception and then it ran.
+Met some more team members of ttt had lunch with harshita,ended the day telling tushar that i made the ppt on the topics given by darpan yesterday.tushar told me to connect with akjilesh 
+so that he allots me some project.
+jaate waqt traffic nhi milta but aate  waqt milta hai
+
+DAY4-WFH,CONNECTED WITH SHAINA AND AG,THEY GAVE ME THE CODEBASE ACCESS AND TOLD ME TO GO THROUGH IT.WENT THROUGH THBE CODEBASE
+FINALLY GOT THE IDEA,ABOUT WHAT WAS BEING IMPLEMENTED. INTERESTING IDEA AND THINKING. ENDED THE DAY WITH WRITNG MY JOURNAL AND HAD A QUICK \\
+CHAT WITH AKHILESH SO HE TOLD ME HE WILL GIVE WORK TMRW. codebase is well commmented
+
+DAY5-WFO,INSTALLED PYCHARM,DOWNLOADED THE CODEBASE FOLDER OF EBRC,GOT TO KNOW THE ISSUE THAT IT WAS SKIPPING THE CURRENT PAGE WHICH IS 1 AND WAS DOWNLOADING
+THE FILES/PDF FROM NEXT PAGE.SOLVED ALL THE ERRORS ON MY LOCAL,INSTALLD ALL THE PACKAGES OF PYTHON.
+FINALLY RAN ON MY LOCAL.TOOK 1 HOUR TO REACH BKC.
+
+DAY6-TRYING TO DEBUG THE ISSUE,ADDED TIMEOUT,SOLVED THE PROBLEM BRIEFLY BUT STILL IT'S GIVING NEW ERRORS.AKHILESH IS ON HOLIDAY SO NO 
+SERIOUS WORK ALLOTED AT ALL.The pagination part is creating issue as it is responding late after clicking on next
+
+DAY7-CHILLED OUT DAY,FIRST HALF WAS CHILLED,AKHILESH MESSAGED ME ON 9 30 BUT I LOGGED IN AT 10.VERY Chilled out day.Akhilesh called me,directed me to call siddhesh 
+to debug the issue on server directly as it runs fine on local but the error is only when we run from server.
+
+DAY8-WFO,RAJAT GUIDED ME ABOUT DEBUGGING AND STUFF,DID LUNCH WITH THEM,GOT TO KNOW MORE ABOUT KPMG HIERARCHY.HAR JAGAH GOOTBAAJI 
+long weekend so thus,to sunday is a break.
+
+DAY9-WFO,RAKHI  TODAY,SO NOT A LOT OF PEOPLE CAME TO OFFICE,ONLY GABY IS HERE FROM MY TEAM TODAY,AKHILESH CALLED TO TELL ME NOTHING WORKED ON THAT
+PAGE ERROR SO HE TOLD ME TO EXPLORE THE ISSUE DEEPLY.ALSO TOLD ME TO LEAVE ME EARLY.
+
+DAY10-WFH,EXPLORED THE ISSUE A BIT MORE,SAW SOME OF THE MEASURES WERE IMPLENTED ALREADY.SENT MY FINDINGS TO AKHILESH AND ENDING MY DAY WRITING THIS TIMELINE.S
+
+DAY11-WFO,MET AKHILESH IN OFFICE,TOLD ME TO EXPLORE THE ISSUE THEN, REAL WORK WILL COME AS ONE MEMBER IS LEAVING TH TEAM SO THE WORK WILL BE
+DIRECTED TO ME.Stocks are something which need to be addressed asquickly 
+
+DAY12-WFH-CHILLED OUT DAY NOTHING MUCH TO DO,AKHILESH TOLD THERES SO ME ISSUE WITH THE SHIPPING BILL TOOL.so akshhay will guide me about the issue but he dint reply back though he sent me the coded
+
+DAY13-WFO-chilled out day again as no serioues work given,akhilesh told he will cal but dint,had lunch with rajat and juhi,some gossip and did literally nothing 
+until akhnileshtold me to contact taruna to get to know more about the issue.she dint understand my point
+
+DAY14-WFO-no one came again due to janmashtmi,akhilesh connected in morning and gave me serious work which will be implemented,complete time around 2 or 3 days.
+ALOT OF TEAM MEMBES DINT COME TO OFFICE TODAY.
+
+DAY15-WFH,CHILLED OUT AGAIN,akhilesh told me to complete the task by tomorrow,dint don anyhting today as such.Dint feel like working so watched ytub
+
+DAY16-WFO-serious work doing today-completed the backend part just need to implement it in the mail.2hrs to reach home.
+
+DAY-17-WFH,GAVE AKHILESH AN UPDATE,WORKING ON THE SAME ISSUE.
+
+DAY-18-WFO,SOLVED THE ISSUE WHCH WAS COMING BUT ANOTHER ISSUE IS THAT DICT JUST STORES KEY VALUE PAIR,LUNCH WITH SENIOR,DIRECTOR,they seem pretty chill about the inernhsip
+
+DAY19-WFO-MET EXTENDED TEAM,SOLVED THE ISSUE BY USING LIST AND APPENDING IT EVERYTIME IT ITERATES OVER ANY FOLDER.
+
+DAY20-WFH-solved the errors,server was givng connection timed out error everytime i was running it.
+
+DAY21-4 SEP WFO-first kt for me,bulk tds emailer project alloted to me and rajat,first time understood requirements of the project from a manager. 
+
+DAY22-WFH-MADE THE DOCUMENTATION FOR THE PROJECT 
+
+DAY23-WFO,RG HELPED TO COMPLETE THE PROJECT,HALF DONE
+
+DAY24-9SEP-WFO,Solved 3 issues and completed half preoject,no one came today as well.
+
+DAY25-10SEP-WFH-CHILLED OUT AGAIN,SOLVED THE PROBLEMS COMING
+
+DAY26-11SEP-WFO-project ready,just some frontend changes left to be made,shooting emails as it should,no on came today so chilled a lot in offfice,RG told to tell tushar about the progress
+
+DAY27-12SEP-WFH-chil
+
+DAY 28-13SEP-WFO-CREATED A LOGGER FOR THE EMAILER-storing all the log files
+
+DAY29-16 SEP-WFO-LOGGER ISSUES SOLVED ,MADE STEPS FOR TDS MAILER,CHILLED HALF DAY
+
+DAY30-17 SEP-WFH-JUST CHILLED 
+
+DAY31-18SEP-WFO,CHILLED AGAIN,AG TOLD TO FIND ABOUT SANDBOX ENV IN DGFT SERVER
+
+DAY32-19SEP-WFH CHILLED WHOLE DAY AGAIN
+
+DAY33-WFO,MAKING THE PROJECT PPT,AKHILESH TOLDE ME TO CHECK DGFT REPOS ON GITHUB
+
+DAY34-WFO-23.9.24-WORKED ON PDF SORTER TOOL-chilled,gave the ppt to akhilesh sr
+
+DAY35-24.9.24--wfh-talked to hr,he said intern completion cert will be given on last day
+
+DAY36--25.9-WFO-chilled whole day again,heavy rains today
+
+DAY 37--26.9.-wfh-made final ppt for internship,contacted darpan tushar for lor.
+
+DAY38--27.9-Wfo
+
+LAST DAY39--30.9-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
